@@ -1,7 +1,10 @@
 # larasimple
+
 laravel框架核心精简版composer 搭建
+
 compsoer直接拉取laravel核心MVC结构
-···json
+
+```json
  "require": {
     "php": ">=5.6.4",
     "illuminate/routing": "^5.4",
@@ -14,4 +17,4 @@ compsoer直接拉取laravel核心MVC结构
       "App\\": "app/"
     }
   }
-···
+```
