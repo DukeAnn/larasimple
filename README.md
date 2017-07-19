@@ -42,3 +42,7 @@ return [
     'prefix' => ''
 ];
 ```
+
+### 路由文件
+
+`app/Http/routes.php`
