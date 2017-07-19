@@ -2,7 +2,7 @@
 
 ## laravel框架核心精简版composer 搭建
 
-compsoer直接拉取laravel核心MVC结构
+composer直接拉取laravel核心MVC结构
 
 ```json
  "require": {
