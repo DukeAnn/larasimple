@@ -1,0 +1,19 @@
+{
+  "name": "DukeAnn/larasimple",
+  "description": "The larasimple Framework.",
+  "keywords": ["framework", "larasimple"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.6.4",
+    "illuminate/routing": "^5.4",
+    "illuminate/events": "^5.4",
+    "illuminate/database": "^5.4",
+    "illuminate/view": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
